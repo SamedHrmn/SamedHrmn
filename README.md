@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamedHrmn)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamedHrmn" />
 
 [instagram]: https://instagram.com/samedharman
 [linkedin]: https://linkedin.com/in/SamedHarman
