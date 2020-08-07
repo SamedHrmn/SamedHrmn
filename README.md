@@ -26,7 +26,7 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn" />
 
 [instagram]: https://instagram.com/samedharman
 [linkedin]: https://linkedin.com/in/SamedHarman
