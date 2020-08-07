@@ -25,7 +25,8 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamedHrmn)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/samedharman
 [linkedin]: https://linkedin.com/in/SamedHarman
