@@ -27,7 +27,6 @@
 <br/>
 <br/>
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamedHrmn&layout=compact&theme=radical" />
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn&show_icons=true&theme=radical" />
 
 
