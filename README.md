@@ -25,11 +25,11 @@
 <img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <br/>
 <br/>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn&show_icons=true&theme=radical" />
 <br/>
 <br/>
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamedHrmn&layout=compact&theme=radical" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn&show_icons=true&theme=radical" />
+
 
 [instagram]: https://instagram.com/samedharman
 [linkedin]: https://linkedin.com/in/SamedHarman
