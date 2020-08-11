@@ -24,13 +24,9 @@
 <img align="left" alt="Laravel" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/laravel/laravel.png" />
 <img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<img align="left" width="350px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamedHrmn&layout=compact&theme=radical" />
-<br/>
+<img align="left" width="350px" height="280px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamedHrmn&layout=compact&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn&show_icons=true&theme=radical" />
 
 
