@@ -27,7 +27,7 @@
 <br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamedHrmn" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn&show_icons=true&theme=radical" />
 
 [instagram]: https://instagram.com/samedharman
 [linkedin]: https://linkedin.com/in/SamedHarman
