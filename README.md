@@ -1,10 +1,10 @@
 ### Hi there, I'm Samed👋
 
 ## I'm a Computer Engineering Student
-- 🔭 I’m currently working on a Dart&Flutter.
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play video game but I have no time :(.
+- 🔭 I’m currently interesting on a Dart&Flutter and Machine Learning.
+- 🌱 I’m currently learning everything 🤣.
+- 🥅 2021 Goals: To be better myself 💪.
+- ⚡ Fun fact: I love to play video games 🎮.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
