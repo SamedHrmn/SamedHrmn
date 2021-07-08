@@ -1,10 +1,6 @@
-### Hi there, I'm Samed👋
+### Welcome to my repo. 🖐
 
-## I'm a Computer Engineering Student
-- 🔭 I’m currently interesting on a Dart&Flutter and Machine Learning.
-- 🌱 I’m currently learning everything 🤣.
-- 🥅 2021 Goals: To be better myself 💪.
-- ⚡ Fun fact: I love to play video games 🎮.
+<img src=https://media.giphy.com/media/SWjCswum5dc0E/giphy.gif width=600px>
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
