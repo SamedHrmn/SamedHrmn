@@ -18,8 +18,7 @@
 <br/>
 <br/>
 <br/>
-<img align="left"  width="325px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamedHrmn&layout=compact&theme=radical" />
-<img align="center" width="425px" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn&show_icons=true&theme=radical" />
+<img align="center" width="425px" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn&show_icons=true&theme=transparent"/>
 
 
 [medium]: https://samed-harman.medium.com/
