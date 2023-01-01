@@ -1,7 +1,13 @@
-### Welcome to my repo. 🖐
+ 
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Hi, I'm Samed. A Mobile Developer 🖐</br></br>
 
-<img src=https://media.giphy.com/media/SWjCswum5dc0E/giphy.gif width=600px>
+<img src=https://media.giphy.com/media/K47lTZr0WcC1ObyOvK/giphy.gif align=left>
+ 
+<img src=https://media.giphy.com/media/K47lTZr0WcC1ObyOvK/giphy.gif align=right>
 
+&emsp;&emsp;&emsp;&emsp;<img src=https://media.giphy.com/media/d2jY21l2GvZUdQVG/giphy.gif>
+ 
+<br/><br/>
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
