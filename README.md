@@ -18,7 +18,7 @@
 <br/>
 <br/>
 <br/>
-<img align="center" width="425px" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn&show_icons=true&theme=transparent"/>
+<img align="center" width="425px" src="https://github-readme-stats.vercel.app/api?username=SamedHrmn&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 
 
 [medium]: https://samed-harman.medium.com/
