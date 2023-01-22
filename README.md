@@ -1,11 +1,9 @@
  
 ### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Hi, I'm Samed. A Mobile Developer 🖐</br></br>
 
-<img src=https://media.giphy.com/media/K47lTZr0WcC1ObyOvK/giphy.gif align=left>
- 
-<img src=https://media.giphy.com/media/K47lTZr0WcC1ObyOvK/giphy.gif align=right>
 
-&emsp;&emsp;&emsp;&emsp;<img src=https://media.giphy.com/media/d2jY21l2GvZUdQVG/giphy.gif>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src=https://media.giphy.com/media/FT2F4dl9ioi4GXzczO/giphy.gif>
  
 <br/><br/>
 ### Connect with me:
