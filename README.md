@@ -1,13 +1,30 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Hi, I'm Samed. A Mobile Developer 🖐</br></br>
-🔭 I’m currently working on Flutter Mobile<br>👯 I’m looking to collaborate on Mobile Developers<br>🌱 I’m currently learning Flutter & Android Native<br>💬 Ask me about Flutter Development
+# <div align="center"> Speak friend and enter :) Hello friend, I'm Samed</div>
+#### <div>I've been interested in computers since I was little. This is where my interest started in video games. Currently, I am working on mobile applications as a computer engineer. I follow new technologies and try to adapt. You can check out my repos.</div>
+
+## Featured Projects
+<div align="center">
+  <a href="https://github.com/SamedHrmn/music-player-flutter"><img width=200 src="https://github.com/SamedHrmn/SamedHrmn/assets/60006881/e008e02f-4366-4f76-bd44-a77c6d17ebc1"></a>
+  <a href="https://github.com/SamedHrmn/currency-converter"><img width=200 src="https://github.com/SamedHrmn/SamedHrmn/assets/60006881/715d3f93-854c-4c5f-9a79-e133b0bf7d0c"></a>
+</div>
+
+<h3 align="center">
+  <a href="https://github.com/SamedHrmn/music-player-flutter">Music Player For Android</a> |
+  <a href="https://github.com/SamedHrmn/currency-converter">Currency Converter</a>
+</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mobile.enginar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samedharman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samed-harman) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/samedhrmn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Samed_Harman) 
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+## 💻 Tech Stack:
+ <div>
+   <img src="https://img.icons8.com/color/480/000000/flutter.png" width=64>
+   <img src="https://img.icons8.com/color/480/000000/kotlin.png" width=64>
+   <img src="https://img.icons8.com/color/480/000000/android-os.png" width=64>
+   <img src="https://img.icons8.com/color/480/000000/tensorflow.png" width=64>
+ </div>
+ 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamedHrmn&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)&emsp;&emsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamedHrmn&theme=blue-green&hide_border=false)<br/>
 
