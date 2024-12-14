@@ -9,17 +9,17 @@
 
 <div align="center">
   <a href="https://github.com/SamedHrmn/background-eraser"><img width=200 src="https://github.com/user-attachments/assets/82f31faa-3475-48b6-a42b-7f548dac3060"></a>
-  <a href="https://github.com/SamedHrmn/music-player-flutter"><img width=200 src="https://github.com/SamedHrmn/music-player-flutter/assets/60006881/2a7dfa98-2a6f-4b9c-8d9c-8b4da0fc8a24"></a>
-  <a href="https://github.com/SamedHrmn/weather-flutter"><img width=200 src="https://github.com/SamedHrmn/music-player-flutter/assets/60006881/eb471a7c-940e-4316-ae35-040783439c1c"></a>
-  <a href="https://github.com/SamedHrmn/flumovie"><img width=200 src="https://github.com/SamedHrmn/flumovie/assets/60006881/c8f5ccb1-34b2-4a40-aeaa-9d52251622d4"></a>
+  <a href="https://github.com/SamedHrmn/flutter-playgrounds/tree/master/donna_clone"><img width=200 src="https://github.com/user-attachments/assets/52099741-d1a2-47d0-b86a-8b51980fdbf3"></a>
+  <a href="https://github.com/SamedHrmn/flutter-playgrounds/tree/master/alltrails_onboard_clone"><img width=200 src="https://github.com/user-attachments/assets/6bd0a1d0-1953-44e1-a324-f5d1c85dc4ef"></a>
+  <a href="https://github.com/SamedHrmn/flutter-playgrounds/tree/master/low_light_enhancer"><img width=200 src="https://github.com/user-attachments/assets/de3b88e7-c95d-4635-a4a4-8a624be80ce1"></a>
   <a href="https://github.com/SamedHrmn/food-delivery-flutter"><img width=200 src="https://github.com/SamedHrmn/music-player-flutter/assets/60006881/9e0af6fb-7a5c-460e-ace5-2c15298fcd67"></a>
 </div>
 
 <h3 align="center">
   <a href="https://github.com/SamedHrmn/background-eraser">Background Eraser</a> |
-  <a href="https://github.com/SamedHrmn/music-player-flutter">Music Player For Android</a> |
-  <a href="https://github.com/SamedHrmn/weather-flutter">Weather Flutter</a> |
-  <a href="https://github.com/SamedHrmn/flumovie">FluMovie</a> |
+  <a href="https://github.com/SamedHrmn/flutter-playgrounds/tree/master/donna_clone">Donna Clone</a> |
+  <a href="https://github.com/SamedHrmn/flutter-playgrounds/tree/master/alltrails_onboard_clone">AllTrails Clone</a> |
+  <a href="https://github.com/SamedHrmn/flutter-playgrounds/tree/master/low_light_enhancer">Low Light Enhancer</a> |
   <a href="https://github.com/SamedHrmn/food-delivery-flutter">Food Delivery Flutter</a>
 </h3>
 
