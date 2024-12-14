@@ -1,9 +1,6 @@
 <h1 align="center">
-  Speak friend and enter :) Hello friend, I'm Samed 
+  Hatasız kod olmaz, hatamla save beni.
 </h1>
-<h3>
-   I've been interested in computers since I was little. This is where my interest started in video games. Currently, I am working on mobile applications as a computer engineer. I follow new technologies and try to adapt. You can check out my repos. 
-</h3>
 
 <h2>Featured Projects</h2>
 
