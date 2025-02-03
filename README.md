@@ -5,6 +5,7 @@
 <h2>Featured Projects</h2>
 
 <div align="center">
+  <a href="https://github.com/SamedHrmn/easy-signature"><img src= "https://github.com/user-attachments/assets/63da0f38-f32a-4d74-9249-a6499d6e8a67" width=200"></a>
   <a href="https://github.com/SamedHrmn/background-eraser"><img width=200 src="https://github.com/user-attachments/assets/82f31faa-3475-48b6-a42b-7f548dac3060"></a>
   <a href="https://github.com/SamedHrmn/flutter-playgrounds/tree/master/donna_clone"><img width=200 src="https://github.com/user-attachments/assets/52099741-d1a2-47d0-b86a-8b51980fdbf3"></a>
   <a href="https://github.com/SamedHrmn/flutter-playgrounds/tree/master/alltrails_onboard_clone"><img width=200 src="https://github.com/user-attachments/assets/6bd0a1d0-1953-44e1-a324-f5d1c85dc4ef"></a>
@@ -13,6 +14,7 @@
 </div>
 
 <h3 align="center">
+  <a href="https://github.com/SamedHrmn/easy-signature">Easy Signature</a> |
   <a href="https://github.com/SamedHrmn/background-eraser">Background Eraser</a> |
   <a href="https://github.com/SamedHrmn/flutter-playgrounds/tree/master/donna_clone">Donna Clone</a> |
   <a href="https://github.com/SamedHrmn/flutter-playgrounds/tree/master/alltrails_onboard_clone">AllTrails Clone</a> |
